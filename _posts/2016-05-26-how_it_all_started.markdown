@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "How it all started"
-date:   2016-05-26 03:41:43 +0000
+date:   2016-05-25 23:41:43 -0400
 ---
 
-My journey to learning software development started years ago, perhaps in an unconventional way, but I have always been one to interpret the world a little bit differently than others. I was not one of those kids who tinkered with computers or took things apart. My story actually started in a college Spanish class. That is when I realized that I loved languages; how there are so many words that represent a single idea or a single thing, how we use different sounds to create words, to express ourselves.
+My journey to learning software development started years ago, perhaps in an unconventional way, but I have always been one to interpret the world a little bit differently than others. I was not one of those kids who tinkered with computers or took things apart. My story actually started in a college Spanish class. That is when I realized that I loved languages; how there are so many words that represent a single idea or a single thing, how we use different sounds to create words, to express ourselves. [Keep reading...](http://mmmeyers.github.io/2016/05/26/how_it_all_started/)
 
 I have studied Spanish, French, Italian, Russian, Swedish, and Hebrew. My love for language has now extended into a new world: code. I read an article last year about ‘programming languages’ and decided I would try a few of them out. After trying a few free online courses, I found Learn.co. It has been extremely challenging, yet there is a certain satisfaction that comes with building and breaking programs and getting the reward of seeing your hard work displayed right there on the screen.
 

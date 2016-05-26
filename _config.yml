@@ -1,0 +1,21 @@
+# Site settings
+title: A different kind of language
+header-img: img/home-bg.png
+email: marsi286@gmail.com
+copyright_name: mmmeyers
+description: > # this means to ignore newlines until "baseurl:"
+  It took a while, but here I am
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  mmmeyers
+learn_profile: mmmeyers
+email_username: marsi286@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

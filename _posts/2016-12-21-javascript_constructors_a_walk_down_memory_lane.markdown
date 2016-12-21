@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Javascript Constructors: A Walk Down Memory Lane"
-date:   2016-12-21 23:33:24 +0000
+date:   2016-12-21 18:33:25 -0500
 ---
 
 
-## A General Explanation
+# A General Explanation
 
 When I first read the requirements for the Rails + jQuery portfolio assessment, I had to pause for a while to remember what constructors were. I couldn’t recall exactly what they were or why and how they were used, other than they reminded me of classes in Ruby.
 
@@ -40,7 +40,7 @@ return “meow!”
 
 Calling `cat1.meow();` will return “meow!”
 
-## Using a constructor in my portfolio project
+# Using a constructor in my portfolio project
 
 In my Rails + jQuery portfolio project, I have a users index page, and each user listed has a link to a ‘quick view’ to see individual user information without reloading the page.
 
